@@ -1,6 +1,6 @@
 <?php
 /* -----------------------------------------------------------------------------------------
-   $Id: frm_menu.php,v 1.1 2004/03/24 12:25:57 bootmaker Exp $   
+   $Id: frm_menu.php,v 1.2 2004/03/24 13:07:27 bootmaker Exp $   
 
    Released under the GNU General Public License 
    ---------------------------------------------------------------------------------------*/
@@ -18,9 +18,6 @@ include(dirname(__FILE__).'/include/lang/'.language.'/frm_menu.inc.php');
   <tr> 
     <td valign="top" align="center"> 
       <table width="92%" border="0" cellspacing="0" cellpadding="0">
-        <tr> 
-          <td height="20">&nbsp;</td>
-        </tr>
         <tr> 
           <td bgcolor="#CCCCCC"> 
             <div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>
